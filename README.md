@@ -9,7 +9,7 @@ Registerd student can login can check there profile.
 From here one can change his/her password, view profile and view issued books.
 
 Admin can login and can perform following task.
-![](ad_login.png)
+![](admin_login.png)
 * Add a new book.
 * View all existing books.
 * View all registerd students list.
